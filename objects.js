@@ -2,6 +2,10 @@ var playlist = new Object
 ({
   keys:'0'
   });
+  
+  function updatePlaylist(){
+    
+  }
 
 
 /*it('defines an object called `playlist` containing at least one artist-song pair', () => {
