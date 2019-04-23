@@ -7,7 +7,10 @@ var playlist = new Object
     playlist[artistName] = "songTitle";
     return playlist;
   }
-
+  
+  function removeFromPlaylist(playlist, artistname){
+    
+  }
 
 /*it('defines an object called `playlist` containing at least one artist-song pair', () => {
     expect(typeof playlist).to.equal('object')
