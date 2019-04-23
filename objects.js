@@ -8,8 +8,9 @@ var playlist = new Object
     return playlist;
   }
   
-  function removeFromPlaylist(playlist, artistname){
-    
+  function removeFromPlaylist(playlist, artistName){
+    delete[playlist] = artistName;
+    return playlist;
   }
 
 /*
