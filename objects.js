@@ -1,7 +1,7 @@
 var playlist = new Object
 ({
-  
-})
+  key:value
+  })
 
 
 /*it('defines an object called `playlist` containing at least one artist-song pair', () => {
